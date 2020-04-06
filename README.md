@@ -42,9 +42,9 @@
 
 ## Screenshots
 <div align="center">
-    <img width="280" src="https://user-images.githubusercontent.com/42709965/78541783-6363e880-7820-11ea-8989-497682a76d08.png">   
-    <img width="280" src="https://user-images.githubusercontent.com/42709965/78541785-652dac00-7820-11ea-9305-af3c77881903.png">
-    <img width="280" src="https://user-images.githubusercontent.com/42709965/78541808-6bbc2380-7820-11ea-9ff1-64753e52eae2.png">
+    <img width="210" src="https://user-images.githubusercontent.com/42709965/78541783-6363e880-7820-11ea-8989-497682a76d08.png">   
+    <img width="210" src="https://user-images.githubusercontent.com/42709965/78541785-652dac00-7820-11ea-9305-af3c77881903.png">
+    <img width="210" src="https://user-images.githubusercontent.com/42709965/78541808-6bbc2380-7820-11ea-9ff1-64753e52eae2.png">
 </div>
 
 ## Release APK
