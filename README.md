@@ -41,11 +41,11 @@
 5. Type `react-native run-android` for run this app. ***Make sure your device is connected with debugging mode***.
 
 ## Screenshots
-<div align="center">
 ![Screenshot_20200403-213008](https://user-images.githubusercontent.com/42709965/78541783-6363e880-7820-11ea-8989-497682a76d08.png)
 ![Screenshot_20200403-212053](https://user-images.githubusercontent.com/42709965/78541785-652dac00-7820-11ea-9305-af3c77881903.png)
 ![Screenshot_20200403-212114](https://user-images.githubusercontent.com/42709965/78541808-6bbc2380-7820-11ea-9ff1-64753e52eae2.png)
 
+<div align="center">
     <img width="250" src="https://user-images.githubusercontent.com/42709965/78541783-6363e880-7820-11ea-8989-497682a76d08.png">   
     <img width="250" src="https://user-images.githubusercontent.com/42709965/78541785-652dac00-7820-11ea-9305-af3c77881903.png">
     <img width="250" src="https://user-images.githubusercontent.com/42709965/78541808-6bbc2380-7820-11ea-9ff1-64753e52eae2.png">
